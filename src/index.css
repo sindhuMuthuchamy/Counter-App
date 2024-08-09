@@ -34,3 +34,11 @@ code {
   cursor: pointer;
   
 }
+
+@media screen and (max-width:600px) {
+  .counter{
+    width: 90%;
+    margin-left: 2%;
+  }
+  
+}
